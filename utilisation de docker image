@@ -1,0 +1,7 @@
+fichier modifier:
+ .dockerignore                        |  7 ++++++
+ .github/workflows/docker-publish.yml | 48 ++++++++++++++++++++++++++++++++++++
+ .gitignore                           |  5 ++++
+ Dockerfile                           | 15 +++++++++++
+ README.md                            | 18 ++++++++++++++
+
